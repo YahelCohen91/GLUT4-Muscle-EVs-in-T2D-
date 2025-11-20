@@ -1,0 +1,167 @@
+,Category,proteins_level,Fraction,affiliation
+0,1A,1.0089499167289666,EV,"EV Transmembrane/anchored 
+ proteins"
+1,1A,0.9617307223283561,EV,"EV Transmembrane/anchored 
+ proteins"
+2,1A,1.0902692962671143,EV,"EV Transmembrane/anchored 
+ proteins"
+3,1A,1.0389987110708636,EV,"EV Transmembrane/anchored 
+ proteins"
+4,1A,0.9351961018746282,EV,"EV Transmembrane/anchored 
+ proteins"
+5,1A,0.8737215581364332,EV,"EV Transmembrane/anchored 
+ proteins"
+6,1A,1.072767013830457,EV,"EV Transmembrane/anchored 
+ proteins"
+7,1A,0.9790535569174411,EV,"EV Transmembrane/anchored 
+ proteins"
+8,1A,0.8761204491230745,EV,"EV Transmembrane/anchored 
+ proteins"
+9,1A,0.9304507850648881,EV,"EV Transmembrane/anchored 
+ proteins"
+10,1A,1.1558201023099062,EV,"EV Transmembrane/anchored 
+ proteins"
+11,1A,0.8737863056795194,EV,"EV Transmembrane/anchored 
+ proteins"
+12,1A,1.0586264572286506,EV,"EV Transmembrane/anchored 
+ proteins"
+13,1A,1.022209703091154,EV,"EV Transmembrane/anchored 
+ proteins"
+14,1A,0.8866250194135753,EV,"EV Transmembrane/anchored 
+ proteins"
+15,1A,0.9817699865587844,EV,"EV Transmembrane/anchored 
+ proteins"
+16,1B,0.9680400846213358,EV,"EV Transmembrane/anchored 
+ proteins"
+17,1B,1.1762141539680526,EV,"EV Transmembrane/anchored 
+ proteins"
+18,2A,1.031457203730324,EV,EV cytosolic proteins
+19,2A,0.9233191236824864,EV,EV cytosolic proteins
+20,2A,1.0899426776265582,EV,EV cytosolic proteins
+21,2A,1.1569978242068804,EV,EV cytosolic proteins
+22,2A,1.079818016950528,EV,EV cytosolic proteins
+23,2A,0.9942888291343973,EV,EV cytosolic proteins
+24,2A,0.9539497477394553,EV,EV cytosolic proteins
+25,2A,0.8941642406276168,EV,EV cytosolic proteins
+26,2A,0.9700231057579387,EV,EV cytosolic proteins
+27,2A,1.0730295210990723,EV,EV cytosolic proteins
+28,2A,1.086238244176543,EV,EV cytosolic proteins
+29,2A,0.8952430503276124,EV,EV cytosolic proteins
+30,2A,1.1645836461743053,EV,EV cytosolic proteins
+31,2A,0.9792373062607486,EV,EV cytosolic proteins
+32,2A,1.0722075782224814,EV,EV cytosolic proteins
+33,2B,0.9067829786714533,EV,EV cytosolic proteins
+34,2B,1.0583707583944841,EV,EV cytosolic proteins
+35,2B,1.1706433414448254,EV,EV cytosolic proteins
+36,2B,1.033925767274046,EV,EV cytosolic proteins
+37,2B,1.1180506913594026,EV,EV cytosolic proteins
+38,2B,1.1728598540101263,EV,EV cytosolic proteins
+39,2B,0.893949899934061,EV,EV cytosolic proteins
+40,2B,1.0648700466071892,EV,EV cytosolic proteins
+41,3A,1.0656200376755889,EV,non-EV ribosomal proteins
+42,3A,1.30756565639293,EV,non-EV ribosomal proteins
+43,3B,0.9272013468841703,EV,non-EV ribosomal proteins
+44,3B,0.9531420601376898,EV,non-EV ribosomal proteins
+45,3B,1.053589517258651,EV,non-EV ribosomal proteins
+46,3B,0.9883453496818735,EV,non-EV ribosomal proteins
+47,3B,0.8882928614622109,EV,non-EV ribosomal proteins
+48,3B,0.9431847126729577,EV,non-EV ribosomal proteins
+49,3B,1.042100366118924,EV,non-EV ribosomal proteins
+50,3B,0.968368128486634,EV,non-EV ribosomal proteins
+51,3B,1.0477577880979876,EV,non-EV ribosomal proteins
+52,3B,0.9356440065118047,EV,non-EV ribosomal proteins
+53,3B,0.9310654663164546,EV,non-EV ribosomal proteins
+54,3B,0.9433730641988797,EV,non-EV ribosomal proteins
+55,3B,0.9636134253540688,EV,non-EV ribosomal proteins
+56,3B,0.9381172091996782,EV,non-EV ribosomal proteins
+57,3B,0.9164414697614361,EV,non-EV ribosomal proteins
+58,3B,0.9439521131665893,EV,non-EV ribosomal proteins
+59,3B,1.0130917167059283,EV,non-EV ribosomal proteins
+60,3B,0.874757006958076,EV,non-EV ribosomal proteins
+61,3B,0.9058104521338114,EV,non-EV ribosomal proteins
+62,3B,0.9943747987115019,EV,non-EV ribosomal proteins
+63,3B,1.0639257384885301,EV,non-EV ribosomal proteins
+64,3B,1.0174668178876312,EV,non-EV ribosomal proteins
+65,3B,0.9414377559209482,EV,non-EV ribosomal proteins
+66,3B,0.9493036976943899,EV,non-EV ribosomal proteins
+67,3B,0.9791299555373558,EV,non-EV ribosomal proteins
+68,3B,0.8755526043790275,EV,non-EV ribosomal proteins
+69,3B,1.0046306851196134,EV,non-EV ribosomal proteins
+70,3B,0.973355144959211,EV,non-EV ribosomal proteins
+71,3B,0.918064313018725,EV,non-EV ribosomal proteins
+72,3B,0.8924573644517872,EV,non-EV ribosomal proteins
+73,3B,0.9193200500885048,EV,non-EV ribosomal proteins
+74,3B,0.9264892394423082,EV,non-EV ribosomal proteins
+75,3B,1.0218268421058376,EV,non-EV ribosomal proteins
+76,3B,0.9461913042905733,EV,non-EV ribosomal proteins
+77,3B,0.9823218293277219,EV,non-EV ribosomal proteins
+78,3B,0.9537565756776659,EV,non-EV ribosomal proteins
+79,3B,0.9223902641781274,EV,non-EV ribosomal proteins
+80,3B,0.9150997281161027,EV,non-EV ribosomal proteins
+81,3B,0.9281231350518521,EV,non-EV ribosomal proteins
+82,3B,1.0042589635301438,EV,non-EV ribosomal proteins
+83,3B,0.9713591592090859,EV,non-EV ribosomal proteins
+84,3B,0.9496881843404718,EV,non-EV ribosomal proteins
+85,3B,0.9374985955070062,EV,non-EV ribosomal proteins
+86,3B,0.9388293743913119,EV,non-EV ribosomal proteins
+87,3B,1.0430374024955313,EV,non-EV ribosomal proteins
+88,3B,0.9636970235537493,EV,non-EV ribosomal proteins
+89,3B,0.888543462208176,EV,non-EV ribosomal proteins
+90,3B,1.060778248774886,EV,non-EV ribosomal proteins
+91,3B,0.9466027028812075,EV,non-EV ribosomal proteins
+92,3B,0.9742351222318267,EV,non-EV ribosomal proteins
+93,3B,0.8719873317267298,EV,non-EV ribosomal proteins
+94,4A,0.9496357797493807,EV,Small EVs proteins
+95,4C,1.085792729007782,EV,Small EVs proteins
+96,4C,1.2189262345440213,EV,Small EVs proteins
+97,4C,1.0271214539922426,EV,Small EVs proteins
+98,4C,0.893949899934061,EV,Small EVs proteins
+99,4C,1.0623937646845374,EV,Small EVs proteins
+100,5A,0.959700602298576,EV,Secreted by EVs
+101,5B,0.919073693618785,EV,Secreted by EVs
+102,5B,0.9898311816682658,EV,Secreted by EVs
+103,5B,1.1573405381401471,EV,Secreted by EVs
+104,5B,1.2866068786357372,EV,Secreted by EVs
+105,5B,0.8650362893146811,EV,Secreted by EVs
+106,5B,1.120394204687833,EV,Secreted by EVs
+107,5B,1.0151637273095306,EV,Secreted by EVs
+108,5B,0.9224080535979403,EV,Secreted by EVs
+109,5B,1.1103502649118744,EV,Secreted by EVs
+110,5B,1.1726280199415442,EV,Secreted by EVs
+111,5B,1.0661403766326611,EV,Secreted by EVs
+112,5B,1.0593195146470278,EV,Secreted by EVs
+113,5B,0.8850747125483481,EV,Secreted by EVs
+114,5B,0.9265615419538928,EV,Secreted by EVs
+115,5B,1.164276332846094,EV,Secreted by EVs
+116,5B,1.321391021151492,EV,Secreted by EVs
+117,5B,1.0620667289942418,EV,Secreted by EVs
+118,5B,1.1417622357198762,EV,Secreted by EVs
+119,5B,1.067915491112533,EV,Secreted by EVs
+120,5B,1.1583719749046615,EV,Secreted by EVs
+121,1A,1.072479811863992,CM,"EV Transmembrane/anchored 
+ proteins"
+122,2A,0.9674535027839744,CM,EV cytosolic proteins
+123,2A,0.924315701151059,CM,EV cytosolic proteins
+124,2A,0.8398216977820067,CM,EV cytosolic proteins
+125,2B,1.0080361614789848,CM,EV cytosolic proteins
+126,2B,0.9373013098635147,CM,EV cytosolic proteins
+127,2B,0.8572474411820648,CM,EV cytosolic proteins
+128,3A,1.4107211495987182,CM,non-EV ribosomal proteins
+129,3A,1.2667109534662304,CM,non-EV ribosomal proteins
+130,3A,1.0235789850232104,CM,non-EV ribosomal proteins
+131,3B,0.9195194740069202,CM,non-EV ribosomal proteins
+132,4A,0.8799621708636788,CM,Small EVs proteins
+133,4C,0.9730425375381273,CM,Small EVs proteins
+134,4C,0.9364296089131591,CM,Small EVs proteins
+135,5B,1.258102470521558,CM,Secreted by EVs
+136,5B,1.1570155740499264,CM,Secreted by EVs
+137,5B,1.1524996679742783,CM,Secreted by EVs
+138,5B,1.0591131850254698,CM,Secreted by EVs
+139,5B,1.0550534021762805,CM,Secreted by EVs
+140,5B,1.0338233154921517,CM,Secreted by EVs
+141,5B,1.0342929679805712,CM,Secreted by EVs
+142,5B,1.0013604379260939,CM,Secreted by EVs
+143,5B,0.9337814714031775,CM,Secreted by EVs
+144,5B,0.906668113132684,CM,Secreted by EVs
+145,5B,0.8883069798284174,CM,Secreted by EVs
+146,5B,0.7253609042893795,CM,Secreted by EVs

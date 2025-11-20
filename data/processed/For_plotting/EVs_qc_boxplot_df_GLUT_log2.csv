@@ -1,0 +1,452 @@
+,Category,proteins_level,Fraction,affiliation
+0,1A,26.748379984448164,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+1,1A,25.641978712025917,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+2,1A,28.684865024643724,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+3,1A,27.459788560812715,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+4,1A,24.65169173701676,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+5,1A,23.039022117720986,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+6,1A,28.3309609295034,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+7,1A,25.97881799534335,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+8,1A,22.99357206589265,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+9,1A,24.758889763283303,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+10,1A,30.367614816606732,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+11,1A,23.06193784769528,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+12,1A,27.743997975569865,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+13,1A,27.084696301486805,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+14,1A,23.53463713433022,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+15,1A,25.74940760662618,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+16,1B,25.022053340000387,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+17,1B,31.218504129250675,EV,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+18,2A,27.22500647613042,EV,"EV 
+ cytosolic 
+ proteins"
+19,2A,24.38520710679285,EV,"EV 
+ cytosolic 
+ proteins"
+20,2A,28.69010174122593,EV,"EV 
+ cytosolic 
+ proteins"
+21,2A,30.57454205031316,EV,"EV 
+ cytosolic 
+ proteins"
+22,2A,28.594436418565085,EV,"EV 
+ cytosolic 
+ proteins"
+23,2A,26.05555430036098,EV,"EV 
+ cytosolic 
+ proteins"
+24,2A,25.109227923671032,EV,"EV 
+ cytosolic 
+ proteins"
+25,2A,23.443441701157905,EV,"EV 
+ cytosolic 
+ proteins"
+26,2A,25.590559195964378,EV,"EV 
+ cytosolic 
+ proteins"
+27,2A,28.337852294794498,EV,"EV 
+ cytosolic 
+ proteins"
+28,2A,28.690951861781482,EV,"EV 
+ cytosolic 
+ proteins"
+29,2A,23.66162106559369,EV,"EV 
+ cytosolic 
+ proteins"
+30,2A,30.66031593421737,EV,"EV 
+ cytosolic 
+ proteins"
+31,2A,25.75333518403319,EV,"EV 
+ cytosolic 
+ proteins"
+32,2A,28.25445567479656,EV,"EV 
+ cytosolic 
+ proteins"
+33,2B,23.859534675369378,EV,"EV 
+ cytosolic 
+ proteins"
+34,2B,27.799122896293927,EV,"EV 
+ cytosolic 
+ proteins"
+35,2B,30.790950642247978,EV,"EV 
+ cytosolic 
+ proteins"
+36,2B,27.108586679627876,EV,"EV 
+ cytosolic 
+ proteins"
+37,2B,29.355159919669415,EV,"EV 
+ cytosolic 
+ proteins"
+38,2B,31.018280532876805,EV,"EV 
+ cytosolic 
+ proteins"
+39,2B,23.352735222379483,EV,"EV 
+ cytosolic 
+ proteins"
+40,2B,28.040608990986655,EV,"EV 
+ cytosolic 
+ proteins"
+41,3A,27.963438926244592,EV,"non-EV 
+ ribosomal 
+ proteins"
+42,3A,34.32501165643165,EV,"non-EV 
+ ribosomal 
+ proteins"
+43,3B,24.59158018743823,EV,"non-EV 
+ ribosomal 
+ proteins"
+44,3B,25.12905228042976,EV,"non-EV 
+ ribosomal 
+ proteins"
+45,3B,27.745034508291393,EV,"non-EV 
+ ribosomal 
+ proteins"
+46,3B,25.945501262470085,EV,"non-EV 
+ ribosomal 
+ proteins"
+47,3B,23.57694763548919,EV,"non-EV 
+ ribosomal 
+ proteins"
+48,3B,24.97520608211038,EV,"non-EV 
+ ribosomal 
+ proteins"
+49,3B,27.473253939490025,EV,"non-EV 
+ ribosomal 
+ proteins"
+50,3B,25.704228604192508,EV,"non-EV 
+ ribosomal 
+ proteins"
+51,3B,27.83966584893759,EV,"non-EV 
+ ribosomal 
+ proteins"
+52,3B,24.717501116888133,EV,"non-EV 
+ ribosomal 
+ proteins"
+53,3B,24.50485170611154,EV,"non-EV 
+ ribosomal 
+ proteins"
+54,3B,24.9617837051606,EV,"non-EV 
+ ribosomal 
+ proteins"
+55,3B,25.336977541836703,EV,"non-EV 
+ ribosomal 
+ proteins"
+56,3B,24.93358835939625,EV,"non-EV 
+ ribosomal 
+ proteins"
+57,3B,24.297847452905987,EV,"non-EV 
+ ribosomal 
+ proteins"
+58,3B,24.90367062448519,EV,"non-EV 
+ ribosomal 
+ proteins"
+59,3B,26.783923513709535,EV,"non-EV 
+ ribosomal 
+ proteins"
+60,3B,23.14230244518173,EV,"non-EV 
+ ribosomal 
+ proteins"
+61,3B,24.12581208943313,EV,"non-EV 
+ ribosomal 
+ proteins"
+62,3B,26.222119551018935,EV,"non-EV 
+ ribosomal 
+ proteins"
+63,3B,28.241321738224585,EV,"non-EV 
+ ribosomal 
+ proteins"
+64,3B,27.099282143677303,EV,"non-EV 
+ ribosomal 
+ proteins"
+65,3B,24.776064060551704,EV,"non-EV 
+ ribosomal 
+ proteins"
+66,3B,25.05088938693845,EV,"non-EV 
+ ribosomal 
+ proteins"
+67,3B,25.699151641059746,EV,"non-EV 
+ ribosomal 
+ proteins"
+68,3B,23.136453005989537,EV,"non-EV 
+ ribosomal 
+ proteins"
+69,3B,26.553702733756694,EV,"non-EV 
+ ribosomal 
+ proteins"
+70,3B,25.72232297745069,EV,"non-EV 
+ ribosomal 
+ proteins"
+71,3B,24.301925862775246,EV,"non-EV 
+ ribosomal 
+ proteins"
+72,3B,23.5870529298732,EV,"non-EV 
+ ribosomal 
+ proteins"
+73,3B,24.279898960761226,EV,"non-EV 
+ ribosomal 
+ proteins"
+74,3B,24.49931452856154,EV,"non-EV 
+ ribosomal 
+ proteins"
+75,3B,26.94368440159185,EV,"non-EV 
+ ribosomal 
+ proteins"
+76,3B,24.90868834369562,EV,"non-EV 
+ ribosomal 
+ proteins"
+77,3B,25.945470257724065,EV,"non-EV 
+ ribosomal 
+ proteins"
+78,3B,24.982419893325233,EV,"non-EV 
+ ribosomal 
+ proteins"
+79,3B,24.37376576109767,EV,"non-EV 
+ ribosomal 
+ proteins"
+80,3B,23.934601773275773,EV,"non-EV 
+ ribosomal 
+ proteins"
+81,3B,24.58586069084117,EV,"non-EV 
+ ribosomal 
+ proteins"
+82,3B,26.529484690462613,EV,"non-EV 
+ ribosomal 
+ proteins"
+83,3B,25.63813115056507,EV,"non-EV 
+ ribosomal 
+ proteins"
+84,3B,25.091249497232017,EV,"non-EV 
+ ribosomal 
+ proteins"
+85,3B,24.70205050106,EV,"non-EV 
+ ribosomal 
+ proteins"
+86,3B,24.796797426924048,EV,"non-EV 
+ ribosomal 
+ proteins"
+87,3B,27.39181207996106,EV,"non-EV 
+ ribosomal 
+ proteins"
+88,3B,25.693398469552562,EV,"non-EV 
+ ribosomal 
+ proteins"
+89,3B,23.32948987794887,EV,"non-EV 
+ ribosomal 
+ proteins"
+90,3B,28.252697975360476,EV,"non-EV 
+ ribosomal 
+ proteins"
+91,3B,25.05976672034497,EV,"non-EV 
+ ribosomal 
+ proteins"
+92,3B,25.763214773961664,EV,"non-EV 
+ ribosomal 
+ proteins"
+93,3B,23.11014562490222,EV,"non-EV 
+ ribosomal 
+ proteins"
+94,4A,24.96983314017906,EV,"Small EVs 
+ proteins"
+95,4C,28.63453886258638,EV,"Small EVs 
+ proteins"
+96,4C,32.329157983656536,EV,"Small EVs 
+ proteins"
+97,4C,27.357204126162742,EV,"Small EVs 
+ proteins"
+98,4C,23.352735222379483,EV,"Small EVs 
+ proteins"
+99,4C,27.872354611179492,EV,"Small EVs 
+ proteins"
+100,5A,25.084995837938575,EV,"Secreted 
+ by 
+ EVs"
+101,5B,24.295873432060045,EV,"Secreted 
+ by 
+ EVs"
+102,5B,26.086418350410927,EV,"Secreted 
+ by 
+ EVs"
+103,5B,30.643612761415614,EV,"Secreted 
+ by 
+ EVs"
+104,5B,33.859192174072795,EV,"Secreted 
+ by 
+ EVs"
+105,5B,23.354838988151354,EV,"Secreted 
+ by 
+ EVs"
+106,5B,29.525220469774073,EV,"Secreted 
+ by 
+ EVs"
+107,5B,26.59948748502669,EV,"Secreted 
+ by 
+ EVs"
+108,5B,24.8963998440008,EV,"Secreted 
+ by 
+ EVs"
+109,5B,29.712081279668066,EV,"Secreted 
+ by 
+ EVs"
+110,5B,31.413477495863955,EV,"Secreted 
+ by 
+ EVs"
+111,5B,28.109547270321432,EV,"Secreted 
+ by 
+ EVs"
+112,5B,28.119694399495838,EV,"Secreted 
+ by 
+ EVs"
+113,5B,23.752674426430016,EV,"Secreted 
+ by 
+ EVs"
+114,5B,24.49439863761396,EV,"Secreted 
+ by 
+ EVs"
+115,5B,31.018468326957546,EV,"Secreted 
+ by 
+ EVs"
+116,5B,35.037716820005265,EV,"Secreted 
+ by 
+ EVs"
+117,5B,28.632311150614196,EV,"Secreted 
+ by 
+ EVs"
+118,5B,30.33205101725153,EV,"Secreted 
+ by 
+ EVs"
+119,5B,28.33826170006969,EV,"Secreted 
+ by 
+ EVs"
+120,5B,30.761000327696397,EV,"Secreted 
+ by 
+ EVs"
+121,1A,28.034975577994555,CM,"EV 
+ Transmembrane/ 
+ anchored 
+ proteins"
+122,2A,25.47789052428304,CM,"EV 
+ cytosolic 
+ proteins"
+123,2A,24.681675113218944,CM,"EV 
+ cytosolic 
+ proteins"
+124,2A,22.398192362876298,CM,"EV 
+ cytosolic 
+ proteins"
+125,2B,26.345239214532437,CM,"EV 
+ cytosolic 
+ proteins"
+126,2B,25.12829467739284,CM,"EV 
+ cytosolic 
+ proteins"
+127,2B,22.7751378597838,CM,"EV 
+ cytosolic 
+ proteins"
+128,3A,37.03342685873741,CM,"non-EV 
+ ribosomal 
+ proteins"
+129,3A,33.20564372214399,CM,"non-EV 
+ ribosomal 
+ proteins"
+130,3A,26.88852234432531,CM,"non-EV 
+ ribosomal 
+ proteins"
+131,3B,24.383726495566904,CM,"non-EV 
+ ribosomal 
+ proteins"
+132,4A,23.523013535973835,CM,"Small EVs 
+ proteins"
+133,4C,25.651323450634308,CM,"Small EVs 
+ proteins"
+134,4C,24.889310328122182,CM,"Small EVs 
+ proteins"
+135,5B,33.17936280614806,CM,"Secreted 
+ by 
+ EVs"
+136,5B,31.043082888491266,CM,"Secreted 
+ by 
+ EVs"
+137,5B,30.866093495679323,CM,"Secreted 
+ by 
+ EVs"
+138,5B,28.023737551147267,CM,"Secreted 
+ by 
+ EVs"
+139,5B,27.91490715809282,CM,"Secreted 
+ by 
+ EVs"
+140,5B,27.77771124030747,CM,"Secreted 
+ by 
+ EVs"
+141,5B,27.560165776624824,CM,"Secreted 
+ by 
+ EVs"
+142,5B,26.682867044841164,CM,"Secreted 
+ by 
+ EVs"
+143,5B,24.887333490290303,CM,"Secreted 
+ by 
+ EVs"
+144,5B,24.245711193341425,CM,"Secreted 
+ by 
+ EVs"
+145,5B,23.919120070636655,CM,"Secreted 
+ by 
+ EVs"
+146,5B,19.504051561013025,CM,"Secreted 
+ by 
+ EVs"
