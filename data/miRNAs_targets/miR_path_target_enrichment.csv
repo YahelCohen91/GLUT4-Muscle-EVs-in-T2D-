@@ -1,0 +1,49 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Proteoglycans in cancer",6.73981086789e-13,83,3
+"Prion diseases",3.39309133047e-11,13,2
+"TGF-beta signaling pathway",3.48859948711e-09,40,3
+"Chronic myeloid leukemia",2.50653482736e-08,42,3
+"Fatty acid biosynthesis",4.27293568209e-08,5,3
+"Adherens junction",1.79915966458e-07,37,3
+"Viral carcinogenesis",1.79915966458e-07,80,3
+"Hepatitis B",2.38552274534e-07,63,3
+"Prostate cancer",3.39507498767e-07,48,3
+"Cell cycle",1.24098909551e-06,58,3
+Glioma,6.62638504118e-06,32,3
+"Pathways in cancer",7.46221608943e-06,145,3
+"Small cell lung cancer",2.35665718094e-05,44,3
+"Signaling pathways regulating pluripotency of stem cells",2.50297608919e-05,58,3
+"Pancreatic cancer",3.31177263353e-05,36,3
+"p53 signaling pathway",5.32202497154e-05,37,3
+"Non-small cell lung cancer",8.11971741487e-05,27,3
+"FoxO signaling pathway",0.000405268479044,58,3
+Melanoma,0.000430413122136,33,3
+"RNA transport",0.000660940302936,67,3
+"Colorectal cancer",0.000660940302936,31,3
+"Long-term depression",0.000768009028645,22,3
+"Protein processing in endoplasmic reticulum",0.00109888063551,69,3
+"Hippo signaling pathway",0.00109888063551,51,3
+"Bladder cancer",0.00210713604355,21,3
+"Other types of O-glycan biosynthesis",0.00245946353398,13,3
+"Endometrial cancer",0.00245946353398,24,3
+"Sphingolipid signaling pathway",0.00252086458866,48,3
+"Dorso-ventral axis formation",0.0044579968217,16,2
+"Bacterial invasion of epithelial cells",0.00552230067698,31,3
+"Neurotrophin signaling pathway",0.00637776888909,50,3
+Shigellosis,0.0064140138884,30,3
+"Insulin signaling pathway",0.00739876626941,56,3
+"Transcriptional misregulation in cancer",0.00807132780515,59,3
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",0.0100097200257,8,2
+"Lysine degradation",0.0100519601835,20,3
+"Oocyte meiosis",0.0125261331288,39,3
+"Notch signaling pathway",0.0128130077464,23,3
+"AMPK signaling pathway",0.013722587767,48,3
+"Acute myeloid leukemia",0.0170490389187,25,3
+"Glycosaminoglycan biosynthesis - keratan sulfate",0.0173895851456,6,2
+Spliceosome,0.0173895851456,51,3
+"Renal cell carcinoma",0.0193812256255,30,3
+Ribosome,0.0214947865824,52,3
+"Thyroid hormone signaling pathway",0.0265248611713,48,3
+"PI3K-Akt signaling pathway",0.0336886658045,113,3
+"Fatty acid metabolism",0.0369174706902,15,3
+
